@@ -1,0 +1,3 @@
+ForecastYear,ForecastRevenue,ForecastQuantity,OverallGrowthPct,HighestGrowthCategory,DecliningCategory,HighestGrowthProduct,DecliningProduct,MostSeasonalCategory,MostSeasonalProduct,HighestRevenueMonth,LowestRevenueMonth,HighestRiskCategory,HighestRiskProduct
+2025,18289593.41,60230.0,0.68,Electronics,Toys & Games,P00026,P00001,Home & Kitchen,P00014,May,February,N/A,N/A
+2026,18289593.41,60185.0,0.68,Electronics,Toys & Games,P00026,P00001,Home & Kitchen,P00014,May,February,N/A,N/A

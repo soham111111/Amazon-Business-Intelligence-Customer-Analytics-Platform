@@ -15,3 +15,16 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs and debugging files
+*.log
+traceback.txt
+
+# Temporary Python files (exclude only if not needed)
+check_dims.py
+test_error.py
+patch_routing.py
